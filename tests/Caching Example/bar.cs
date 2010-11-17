@@ -2,6 +2,6 @@ public class Bar
 {
   public string GetValue()
   {
-    return "hello!";
+    return "test execution of exe successful!!";
   }
 }
